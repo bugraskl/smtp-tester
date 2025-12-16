@@ -6,6 +6,10 @@ A modern, multilingual SMTP server testing tool with detailed debug output.
 ![PHP](https://img.shields.io/badge/PHP-7.4%2B-777BB4.svg)
 ![Languages](https://img.shields.io/badge/languages-21-green.svg)
 
+## 🔗 Live Demo
+
+**[Try it now → https://bugra.work/smtp-tester](https://bugra.work/smtp-tester)**
+
 ## ✨ Features
 
 - **🌍 21 Languages** - Support for the world's most spoken languages with automatic browser detection
