@@ -27,7 +27,7 @@ A modern, multilingual SMTP server testing tool with detailed debug output.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/smtp-tester.git
+git clone https://github.com/bugraskl/smtp-tester.git
 ```
 
 2. Move to your web server directory:
