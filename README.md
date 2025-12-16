@@ -8,7 +8,7 @@ A modern, multilingual SMTP server testing tool with detailed debug output.
 
 ## 🔗 Live Demo
 
-**[Try it now → https://bugra.work/smtp-tester](https://bugra.work/smtp-tester)**
+**[Try it now → https://www.bugra.work/smtp-tester](https://www.bugra.work/smtp-tester)**
 
 ## ✨ Features
 
